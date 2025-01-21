@@ -2,4 +2,4 @@
 
 ### Note: This is a hobby project I have completed a long time ago. Best coding practices may not be adhered to."
 
-User manual: [View the PDF](Completed for distribution/Age_Registration_System_Instructions.pdf)
+User manual: [View the PDF]([Completed for distribution/Age_Registration_System_Instructions.pdf](https://github.com/oshanAmarasuriya/Age-registration-system/blob/main/Completed%20for%20distribution/Age_Registration_System_Instructions.pdf))
